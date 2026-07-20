@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TerraNusa - Healthy Soil. Trusted Harvest.</title>
+
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+    <div class="container">
+        <!-- konten -->
+        <div class="py-5 text-center">
+            <h1 class="display-4 font-weight-bold text-success">
+                TerraNusa
+            </h1>
+
+            <p class="lead mb-1">
+                Healthy Soil. Trusted Harvest.
+            </p>
+
+            <p class="text-muted">
+                Regenerative Farming Platform for Indonesia
+            </p>
+
+            <a href="#vision" class="btn btn-success btn-lg mt-3">
+                Learn More
+            </a>
+        </div>
+
+        <hr>
+
+        <section id="vision" class="py-5">
+            <div class="row">
+
+                <div class="col-lg-6">
+
+                    <h2>Our Vision</h2>
+
+                    <p>
+                        TerraNusa empowers farmers to build healthier soils,
+                        produce trusted harvests, and access premium markets
+                        through regenerative agriculture and digital technology.
+                    </p>
+
+                </div>
+
+                <div class="col-lg-6">
+
+                    <div class="card bg-success shadow-sm">
+
+                        <div class="card-body">
+
+                            <h5>Mission</h5>
+
+                            <ul>
+                                <li>Restore soil health</li>
+                                <li>Promote regenerative farming</li>
+                                <li>Digitize farm activities</li>
+                                <li>Build trust through Digital Passport</li>
+                                <li>Connect farmers with premium markets</li>
+                            </ul>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+        </section>
+
+        <section class="py-5 bg-lightZZZ">
+
+            <div class="text-center mb-5">
+
+                <h2>Platform Roadmap</h2>
+
+                <p class="text-muted">
+                    Building the future of regenerative agriculture.
+                </p>
+
+            </div>
+
+            <div class="row text-center">
+
+                <div class="col-md-4 mb-4">
+
+                    <div class="card bg-success h-100">
+
+                        <div class="card-body">
+
+                            <h3>🌱</h3>
+
+                            <h5>Healthy Soil</h5>
+
+                            <p>
+                                Compost, Trichoderma,
+                                EM4, MOL,
+                                Biological Farming.
+                            </p>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <div class="col-md-4 mb-4">
+
+                    <div class="card bg-success h-100">
+
+                        <div class="card-body">
+
+                            <h3>📷</h3>
+
+                            <h5>Digital Passport</h5>
+
+                            <p>
+                                Every farm activity is documented
+                                with photos, videos,
+                                and timestamps.
+                            </p>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <div class="col-md-4 mb-4">
+
+                    <div class="card bg-success h-100">
+
+                        <div class="card-body">
+
+                            <h3>💧</h3>
+
+                            <h5>Smart Irrigation</h5>
+
+                            <p>
+                                Hydram,
+                                water tank,
+                                sprinkler,
+                                IoT monitoring.
+                            </p>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <div class="col-md-4 mb-4">
+
+                    <div class="card bg-success h-100">
+
+                        <div class="card-body">
+
+                            <h3>🤖</h3>
+
+                            <h5>AI Decision Support</h5>
+
+                            <p>
+                                Disease detection,
+                                irrigation recommendation,
+                                yield prediction.
+                            </p>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <div class="col-md-4 mb-4">
+
+                    <div class="card bg-success h-100">
+
+                        <div class="card-body">
+
+                            <h3>🛒</h3>
+
+                            <h5>Marketplace</h5>
+
+                            <p>
+                                Premium traceable agricultural products.
+                            </p>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <div class="col-md-4 mb-4">
+
+                    <div class="card bg-success h-100">
+
+                        <div class="card-body">
+
+                            <h3>🔨</h3>
+
+                            <h5>Farm Auction</h5>
+
+                            <p>
+                                Transparent bidding system
+                                connecting farmers
+                                and buyers.
+                            </p>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+        <section class="py-5">
+
+            <div class="row align-items-center">
+
+                <div class="col-lg-6">
+
+                    <h2>Why TerraNusa?</h2>
+
+                    <ul class="mt-4">
+                        <li>Regenerative Agriculture</li>
+                        <li>Healthy Soil Monitoring</li>
+                        <li>Digital Farm Passport</li>
+                        <li>Photo & Video Timeline</li>
+                        <li>Transparent Farm History</li>
+                        <li>Premium Market Access</li>
+                    </ul>
+
+                </div>
+
+                <div class="col-lg-6">
+
+                    <div class="card bg-success text-white">
+
+                        <div class="card-body text-center">
+
+                            <h3>
+                                Every Harvest Has a Story
+                            </h3>
+
+                            <p class="mt-3">
+                                Every cultivation activity is recorded,
+                                creating trust between farmers and buyers.
+                            </p>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+        <section class="py-5 bg-dark text-white text-center">
+
+            <h2>Currently in MVP Development</h2>
+
+            <p>
+                TerraNusa is building Indonesia's regenerative farming platform
+                combining healthy soil, digital technology,
+                and trusted agricultural products.
+            </p>
+
+            <a class="btn btn-success btn-lg mt-3">
+                FutureGen for Change 2026
+            </a>
+
+        </section>
+    </div>
+
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery-4.0.0.min.js"></script>
+    <script src="js/main.js"></script>
+
+</body>
+
+</html>
